@@ -9,6 +9,12 @@
       - 빅오 표기법(Big O Notation)
 
       - 거품정렬 (bubble sort)
+      
+      - 선택정렬 (selection sort)
+
+      - 삽입정렬 (insertion sort)
+      
+      - 병합정렬 (merge sort)
   
   </details>
 
