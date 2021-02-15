@@ -1,5 +1,3 @@
-# coding-interview
-
 # 📕 coding-interview
 
 > **coding-interview**인프런 강의를 수강하고 리뷰를 업로드합니다.
