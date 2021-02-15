@@ -5,11 +5,12 @@
 > **coding-interview**인프런 강의를 수강하고 리뷰를 업로드합니다.
 
   <details><summary>contents</summary>
+  
+      - 객체지향 프로그래밍 (OOP) 개념
 
-     - 두개 뽑아서 더하기
+      - 빅오 표기법(Big O Notation)
 
-     - 모든 레코드 조회하기
-
-     - 최댓값 구하기
-    </details>
+      - 거품정렬 (bubble sort)
+  
+  </details>
 
